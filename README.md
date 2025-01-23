@@ -1,4 +1,4 @@
-<h1 align="center">Mr. Michael Gutierrez</h1>
+<h1 align="center">Michael Gutierrez</h1>
 <h3 align="center">An experienced senior senior site reliability engineering manager</h3>
 
 - 💬 Ask me about **Improving your software development lifecycle and hosting**
@@ -6,8 +6,8 @@
 - 📫 How to reach me **mwgutier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/michael-gutierrez-se/" LinkedIn>
 <p align="left">
+  <a href="https://www.linkedin.com/in/michael-gutierrez-se/" LinkedIn>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
