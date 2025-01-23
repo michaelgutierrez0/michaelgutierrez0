@@ -1,7 +1,7 @@
 <h1 align="center">Mr. Michael Gutierrez</h1>
-<h3 align="center">An experienced cloud engineer and DevOps engineer and technical manager</h3>
+<h3 align="center">An experienced senior senior site reliability engineering manager</h3>
 
-- 💬 Ask me about **Improving your cloud development lifecycle**
+- 💬 Ask me about **Improving your software development lifecycle and hosting**
 
 - 📫 How to reach me **mwgutier@gmail.com**
 
